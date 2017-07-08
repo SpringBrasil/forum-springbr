@@ -2,7 +2,7 @@
   <img src="https://avatars3.githubusercontent.com/u/28585603?v=3&s=200" alt="Fórum Spring Brasil" width="230" />
 </p>
  
-# Fórum
+# Fórum Spring Brasil
  
 Este ambiente foi criado para reunir discussões, dúvidas e resolução de problemas sobre desenvolvimento com as tecnologias Spring.
 
